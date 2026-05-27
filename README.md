@@ -1,4 +1,4 @@
-# Smart Chair for Posture and Sitting-Time Monitoring 
+# Smart Chair for Posture and Sitting-Time Monitoring !
 
 This repository contains the firmware, circuit designs, and documentation for a low-cost, real-time posture detection system . The project uses an **Arduino Uno** and **Piezoelectric sensors** to monitor sitting habits and detect poor posture (slouching/leaning).
 
